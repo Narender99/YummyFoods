@@ -1,2 +1,2 @@
-# YummyFoods
+# Foodies Heaven
  Food ordering App
